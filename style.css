@@ -14,6 +14,7 @@
 
 header{
     border-bottom: solid thin #dddddd;
+
 }
 
 header nav a.active {
@@ -21,7 +22,16 @@ header nav a.active {
     padding: 10px;
     border-radius: 5px;
     color: white;
+
 }
+    h1 {
+        background-color:#4aaaa5;
+        padding: 20px; 
+        width: 355px;
+        color: #dddddd;
+        margin: 0;
+    }
+
 .section-container  {
     background-image: url("./images/intersection.jpg")
 }
@@ -41,7 +51,10 @@ header nav a.active {
 
 }
 
+.container-2    {
 
+
+}
 .footer mt-auto py-3    {
     background-color: #666666; 
     padding: 20px;
