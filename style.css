@@ -31,6 +31,10 @@ header nav a.active {
         color: #dddddd;
         margin: 0;
     }
+    .h2 {
+
+
+    }
 
 .section-container  {
     background-image: url("./images/intersection.jpg")
@@ -47,14 +51,32 @@ header nav a.active {
     padding: 20px;
 }
 
-.media{
+.media  {
+
+}
+.div-col    {
+padding: 20px;
+}
+
+.div-text-center    {
 
 }
 
 .container-2    {
-
-
+    background-color: #666666; 
+    border-top: 8px solid #4aaaa5;
+    color:#dddddd;  
 }
+
+
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+
 .footer mt-auto py-3    {
     background-color: #666666; 
     padding: 20px;
